@@ -106,8 +106,8 @@ recalculates incomplete sessions.
 ## GC#48 Day 7 candidate DF/F and phase movie
 
 <video controls width="100%">
-  <source src="./gc48_day7_track_0532_dff_phase_10x.mp4" type="video/mp4">
-  Your browser does not support embedded video. [Download the MP4](./gc48_day7_track_0532_dff_phase_10x.mp4).
+  <source src="./media/gc48_day7_track_0532_dff_phase_10x.mp4" type="video/mp4">
+  Your browser does not support embedded video. [Download the MP4](./media/gc48_day7_track_0532_dff_phase_10x.mp4).
 </video>
 
 The video shows corrected DF/F on the left and the full-field 3–5 Hz
@@ -122,10 +122,10 @@ This is an exploratory candidate from VG1-GC#48 Day 7 resting-state data:
 - Phase: Ye-style full-resolution analytic phase, 3–5 Hz
 - Note: this candidate is not a validated neuronal rotating wave
 
-Direct file: [gc48_day7_track_0532_dff_phase_10x.mp4](./gc48_day7_track_0532_dff_phase_10x.mp4)
+Direct file: [gc48_day7_track_0532_dff_phase_10x.mp4](./media/gc48_day7_track_0532_dff_phase_10x.mp4)
 
 ## Phase-map GIF
 
-![Phase-map candidate GIF](./PhaseMap_1_5Hz_candidate04_20260820_225237.gif)
+![Phase-map candidate GIF](./media/PhaseMap_1_5Hz_candidate04_20260820_225237.gif)
 
-Direct file: [PhaseMap_1_5Hz_candidate04_20260820_225237.gif](./PhaseMap_1_5Hz_candidate04_20260820_225237.gif)
+Direct file: [PhaseMap_1_5Hz_candidate04_20260820_225237.gif](./media/PhaseMap_1_5Hz_candidate04_20260820_225237.gif)
